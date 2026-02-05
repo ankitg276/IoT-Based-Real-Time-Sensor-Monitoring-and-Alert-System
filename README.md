@@ -1,4 +1,4 @@
-🚀 IoT-Based Real-Time Sensor Monitoring and Alert System
+# 🚀 IoT-Based Real-Time Sensor Monitoring and Alert System
 
 The IoT Sensor Monitoring & Alerts Dashboard is a smart, end-to-end solution designed to continuously observe and analyze environmental conditions in real time using IoT-enabled hardware and high-speed 5G communication. The system integrates multiple sensors—including temperature–humidity, light intensity, TDS, and NPK soil sensors—with a Raspberry Pi to acquire, process, and transmit data efficiently. All sensor readings are published to an MQTT server, enabling seamless communication between edge devices and the web interface.
 
