@@ -9,10 +9,12 @@ Beyond visualization, the system features an intelligent alerting mechanism to s
 Overall, the project demonstrates a robust implementation of real-time data acquisition, cloud-connected visualization, high-speed wireless communication, and automated notifications—making it suitable for applications in smart agriculture, environmental monitoring, smart cities, and industrial automation.
 
 📌 System Architecture
-<p align="center"> <img src="https://github.com/user-attachments/assets/4b167d7a-fdc8-4745-917c-eb4b7bb8c362" width="700"/> </p> <p align="center"><i>Fig: Architectural overview of the system.</i></p>
+<p align="center"> <img src="https://github.com/user-attachments/assets/81aed3fa-228e-4ab5-b22b-34fb7e8a21fb" width="700"/> </p> <p align="center"><i>Fig: Architectural overview of the system.</i></p>
 📊 Live Dashboard & Sensor Data
 <p align="center"> <img src="https://github.com/user-attachments/assets/075b5e1d-7d5c-4764-99c4-83e473dd72e9" width="800"/> </p> <p align="center"><i>Fig: Live 5G dashboard and sensor data visualization.</i></p>
 🎥 Demo Video
 
 ▶️ IoT Sensor Monitoring & Alerts Dashboard – Demonstration
 👉 https://drive.google.com/file/d/165IwX7KXSzGTNkdeyxH72lGmy2qwLjMr/view
+
+
